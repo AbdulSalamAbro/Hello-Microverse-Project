@@ -51,8 +51,8 @@
 
 ### Key Features <a name="key-features"></a>
 
--Added index.html file.
--Added style.css file.
+-Added index.html file.<br>
+-Added style.css file.<br>
 -Add linters file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
